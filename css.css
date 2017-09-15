@@ -1,0 +1,68 @@
+form{
+    text-align: center;
+    margin-top: 7%;
+}
+
+a{
+    text-decoration: none;
+    color: black; 
+}
+
+.knap{
+  margin-left: -3%;
+    
+}
+
+.knap:hover{
+    color: white;
+}
+.bum{
+  text-align: center;
+    
+}
+h1{
+    border-bottom: 2px solid white;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+
+body{
+    background-image: url("background.jpg"); /*indsæt stien til dit eget billede*/
+    background
+}
+s
+p{
+    margin-top: -3%;
+}
+
+.noteindhold {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.note{
+    width: 30%;
+    height: auto;
+    background: #FFF;
+    margin: 1em;
+    box-sizing: border-box;
+    padding: 1em;
+    border-radius: 2%;
+    border: 1px solid black;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
